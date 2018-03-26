@@ -541,7 +541,7 @@ background: #ed145b;
 }
 
 
-.overlay {
+.overlay-img {
   position: absolute;
   top:0;
   right: -2%;
@@ -554,13 +554,13 @@ background: #ed145b;
 }
 
 
-.image-box-top:hover .overlay {
+.image-box-top:hover .overlay-img {
   margin-top: 0;
   cursor: pointer;
   opacity: 0.9;
 }
 
-.overlay img {
+.overlay-img img {
   position: absolute;
   top: 40%;
   right: 15%;  
