@@ -644,7 +644,7 @@ background: #ed145b;
 .img-browser {
   position: absolute;
   left:0;
-  top:5%;
+  top:1%;
   width:53%;
   height: 626px; 
   overflow: hidden;
